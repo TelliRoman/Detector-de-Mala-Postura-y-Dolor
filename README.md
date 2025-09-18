@@ -1,2 +1,2 @@
 # Detector-de-Mala-Postura-y-Dolor
-Proyecto final de la materia PDS de Ing. Informatica
+Proyecto final de la materia PDI de Ing. Informatica
